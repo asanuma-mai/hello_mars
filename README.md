@@ -15,5 +15,5 @@
 ----------
 
 ##リンクの例
-- [静岡大学]
+- [静岡大学](http://www.shizuoka.ac.jp)
  New line added by a local environment.
